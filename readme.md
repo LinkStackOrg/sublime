@@ -1,11 +1,11 @@
 # A LittleLink Custom Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
-*	Theme Name: ThemeName
+*	Theme Name: Galaxy
 *	Theme Version: 1.0
-*	Theme Date: YYYY-MM-DD
-*	Theme Author: YourGitHubName
-*	Theme Author URI: https://github.com/YourGitHubName
+*	Theme Date: 2022-05-19
+*	Theme Author: JulianPrieber
+*	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3
 
 
@@ -15,5 +15,5 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 * License: MIT
 
 *
-* ...
-*
+* https://github.com/johnggli/linktree
+* License: MIT -> https://github.com/johnggli/linktree/blob/master/LICENSE.md
