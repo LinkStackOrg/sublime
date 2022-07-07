@@ -3,9 +3,6 @@
   vertical-align: middle;
   width: 20px;
   height: 20px;
-  -webkit-filter: invert(100%);
-  -moz-filter: invert(100%);
-  filter: invert(100%);
 }
 
 .sharediv {
@@ -95,7 +92,9 @@ sharebutton:hover,
   background-color: #FFF; 
 }
 .sharebutton:hover .share-icon {
-  filter: none !important;
+  -webkit-filter: invert(100%);
+  -moz-filter: invert(100%);
+  filter: invert(100%);
 }
 
   @media screen and (max-width: 600px) {

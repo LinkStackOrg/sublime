@@ -72,11 +72,17 @@
     -webkit-transition-property:transform;
     transition-property:transform
 }
-.button-hover:active,.credit-hover:active, 
-.button-hover:focus,.credit-hover:focus, 
-.button-hover:hover,.credit-hover:hover{
-    -webkit-transform:scale(1.02);
-    transform:scale(1.02)
+.button-hover:active,
+.button-hover:focus, 
+.button-hover:hover{
+    -webkit-transform:scale(1.009);
+    transform:scale(1.009)
+}
+.credit-hover:active, 
+.credit-hover:focus, 
+.credit-hover:hover{
+    -webkit-transform:scale(1.04);
+    transform:scale(1.04)
 }
 
 
