@@ -1,7 +1,7 @@
 # A LittleLink Custom Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
-*	Theme Name: Flare
+*	Theme Name: Sublime
 *	Theme Version: 1.0
 *	Theme Date: 2022-07-07
 *	Theme Author: JulianPrieber
@@ -16,4 +16,8 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 
 *
 * https://github.com/JulianPrieber2/galaxy
+* License: GPLv3
+
+*
+* https://github.com/JulianPrieber/flare
 * License: GPLv3

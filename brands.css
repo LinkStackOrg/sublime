@@ -70,9 +70,9 @@
 }
 
 .button:hover > .icon {
-  -webkit-box-shadow: 0px 0px 0px 4px var(--bgColor); 
-  box-shadow: 0px 0px 0px 4px var(--bgColor);
-  background-color: var(--bgColor) !important;
+  -webkit-box-shadow: 0px 0px 0px 4px var(--accentColor2); 
+  box-shadow: 0px 0px 0px 4px var(--accentColor2);
+  background-color: var(--accentColor2) !important;
   border-radius:50%;
   -moz-border-radius:50%;
   -webkit-border-radius:50%;

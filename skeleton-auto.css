@@ -65,8 +65,9 @@
     font-size: 100%; }
 
   :root {
-    --bgColor: #f5af19;
-    --bgColor2: #f12711;
+    --bgColor: #f51919;
+    --bgColor2: #1119f1;
+    --accentColor2: #881980;
     --accentColor: #FFF;
     --font: 'Roboto', sans-serif;
     --delay: .3s; }
