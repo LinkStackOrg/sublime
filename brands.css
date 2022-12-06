@@ -22,6 +22,14 @@
   height: 200px;
 }
 
+.social-icon {
+  font-size: 32px;
+  padding: 10px;
+}
+.social-icon-div {
+  padding-bottom: 40px;
+}
+.social-icon{color:#fff;}
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
