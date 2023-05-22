@@ -2,9 +2,9 @@
 Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Sublime
-*	Theme Version: 1.4
+*	Theme Version: 1.5
 *	Theme Date: 2022-07-07
-*	Theme Author: JulianPrieber
+*	Theme Authors: JulianPrieber & LinkStack team
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3
 *	Source code: https://github.com/LinkStackOrg/sublime
